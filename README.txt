@@ -1,3 +1,7 @@
+
+!!! IMPORTANT !!! , les dossiers train/test/validation, sont vide car le dataset sur lequel le projet a été réalisé est privé, je n'ai pas le droit de l'exposer publiquement. Mais pour comprendre la jointure entre les fichiers csv et les images, les noms des images sont dans la colonne normalized_name des csv.
+
+
 Dans le dossier "modeleMetrics" vous trouverez les dossiers :
 
 -coatnet_0_rw_224.sw_in1k
